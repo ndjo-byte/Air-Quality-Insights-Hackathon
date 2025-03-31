@@ -28,9 +28,9 @@ Welcome to my repository for the **Air Quality Insights** challenge, a Data Scie
 - **💾 Model Deployment** (Pickle, JSON output formatting)
 
 ## 📜 Challenge Tasks
-✔ **Task 1**: Exploratory Data Analysis (EDA) - Answered key air quality-related questions.
-✔ **Task 2**: Built a **time-series forecasting model** to predict pollutant levels.
-✔ **Task 3**: Developed an **anomaly detection model** for instrument failures.
+✔ **Task 1**: Exploratory Data Analysis (EDA) - Answered key air quality-related questions.  
+✔ **Task 2**: Built a **time-series forecasting model** to predict pollutant levels.  
+✔ **Task 3**: Developed an **anomaly detection model** for instrument failures.  
 
 ## 🏆 Results & Learnings
 ✅ Improved understanding of **environmental data analysis**.
